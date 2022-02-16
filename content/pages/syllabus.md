@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 70518e4f-ad3b-7538-d8a2-133895a7879f
 ---
@@ -17,7 +19,7 @@ There are no formal prerequisites for this course, though it is assumed that stu
 Course Description
 ------------------
 
-Shape grammars are systems of visual rules by which one shape may be transformed into another. By applying these rules recursively, a simple shape can be elaborated into a complex pattern. This course offers an in-depth introduction to shape grammars and their applications in architecture and related areas of design. More specifically, it involves manipulation of shapes in the algebras Uij, in the algebras Vij and Wij incorporating labels and weights, and in algebras formed as composites of these. Discussions center on rules and computations, shape and structure, and designs.
+Shape grammars are systems of visual rules by which one shape may be transformed into another. By applying these rules recursively, a simple shape can be elaborated into a complex pattern. This course offers an in-depth introduction to shape grammars and their applications in architecture and related areas of design. More specifically, it involves manipulation of shapes in the algebras U{{< sub "ij" >}}, in the algebras V{{< sub "ij" >}} and W{{< sub "ij" >}} incorporating labels and weights, and in algebras formed as composites of these. Discussions center on rules and computations, shape and structure, and designs.
 
 Grading
 -------
@@ -139,7 +141,7 @@ Shapes
 {{< tdopen >}}
 
 
-3. Algebras of Shapes Uij
+3. Algebras of Shapes U{{< sub "ij" >}}
 
 
 {{< tdclose >}}
