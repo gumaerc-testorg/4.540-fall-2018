@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Primary Course Texts
 parent_type: CourseSection
+parent_uid: 24cc6e0a-907f-6837-04a2-d0388448ef1a
 resourcetype: Document
 title: Coda
 uid: db39e670-652d-3f86-37c5-99e19dbee08a

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Primary Course Texts
 parent_type: CourseSection
+parent_uid: 24cc6e0a-907f-6837-04a2-d0388448ef1a
 resourcetype: Document
 title: Exhibit 2
 uid: d787db51-029c-f447-8fcb-8fb8c7d7c79c

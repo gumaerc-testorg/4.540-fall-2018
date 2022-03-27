@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides and Supplemental Readings
 parent_type: CourseSection
+parent_uid: a5d7b3fd-9240-20b4-7ca3-6859ae384ff0
 resourcetype: Document
 title: Introductory Lecture Slides
 uid: e30a7279-edca-5379-98b1-7385065593f4
