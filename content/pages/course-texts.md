@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Primary Course Texts
 uid: 24cc6e0a-907f-6837-04a2-d0388448ef1a
 ---

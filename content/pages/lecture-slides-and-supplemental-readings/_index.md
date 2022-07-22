@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Slides and Supplemental Readings
 uid: a5d7b3fd-9240-20b4-7ca3-6859ae384ff0
 ---

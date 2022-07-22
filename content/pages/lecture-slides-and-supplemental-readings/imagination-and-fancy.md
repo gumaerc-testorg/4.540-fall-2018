@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Lecture Slides and Supplemental Readings
+parent_type: CourseSection
 parent_uid: a5d7b3fd-9240-20b4-7ca3-6859ae384ff0
 title: Imagination and Fancy
 uid: caca5b61-35a0-413d-aeae-a1f99069fae6
