@@ -27,7 +27,7 @@
     "website": "4-540-introduction-to-shape-grammars-i-fall-2018"
   },
   "course_title": "Introduction to Shape Grammars I",
-  "course_description": "Shape grammars are systems of visual rules by which one shape may be transformed into another. By applying these rules recursively, a simple shape can be elaborated into a complex pattern. This course offers an in-depth introduction to shape grammars and their applications in architecture and related areas of design. More specifically, it involves manipulation of shapes in the algebras U{{< sub \"ij\" >}}, in the algebras V{{< sub \"ij\" >}} and W{{< sub \"ij\" >}} incorporating labels and weights, and in algebras formed as composites of these. Discussions center on rules and computations, shape and structure, and designs.\n",
+  "course_description": "Shape grammars are systems of visual rules by which one shape may be transformed into another. By applying these rules recursively, a simple shape can be elaborated into a complex pattern. This course offers an in-depth introduction to shape grammars and their applications in architecture and related areas of design. More specifically, it involves manipulation of shapes in the algebras \\\\(U\\_{ij}\\\\), in the algebras \\\\(V\\_{ij}\\\\) and \\\\(W\\_{ij}\\\\) incorporating labels and weights, and in algebras formed as composites of these. Discussions center on rules and computations, shape and structure, and designs.",
   "department_numbers": [
     "4"
   ],
@@ -41,6 +41,7 @@
     "Lecture Notes",
     "Online Textbook"
   ],
-  "site_uid": "7e0ed84a-52aa-4a4e-9718-1d40f47d1ad4",
+  "site_uid": "6e55e095-9d21-4002-acd3-76035990bb3b",
+  "short_id": "4.540-fall-2018",
   "title": "Course Metadata"
 }

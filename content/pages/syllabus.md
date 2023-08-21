@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -33,7 +34,7 @@ _"Shape" = Shape: Talking about Seeing and Doing_
 
 _"Calculating" = Calculating: Beyond Fancy in Imagination’s Magical Realm_
 
-For full bibliographic details on these texts, see the [Primary Course Texts]({{< baseurl >}}/pages/course-texts) page. For other readings, see the [Lecture Slides and Supplemental Readings]({{< baseurl >}}/pages/lecture-slides-and-supplemental-readings) page. Except where noted, all readings are by George Stiny.
+For full bibliographic details on these texts, see the {{% resource_link 24cc6e0a-907f-6837-04a2-d0388448ef1a "Primary Course Texts" %}} page. For other readings, see the {{% resource_link a5d7b3fd-9240-20b4-7ca3-6859ae384ff0 "Lecture Slides and Supplemental Readings" %}} page. Except where noted, all readings are by George Stiny.
 
 {{< tableopen >}}
 {{< theadopen >}}
