@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: A passage from Coleridge's Biographia Literaria
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
