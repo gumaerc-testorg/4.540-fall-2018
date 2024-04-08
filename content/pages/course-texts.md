@@ -12,9 +12,9 @@ Shape: Talking about Seeing and Doing
 
 Most of the readings in the course can be found in the following book:
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262693677) Stiny, George. 2006. _Shape: Talking about Seeing and Doing._ Cambridge, MA: The MIT Press. ISBN: 9780262693677.
+{{% resource_link "5d425ccf-7cc7-4415-b989-df327dbd4960" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Stiny, George. 2006. _Shape: Talking about Seeing and Doing._ Cambridge, MA: The MIT Press. ISBN: 9780262693677.
 
-The full text of Professor Stiny's book can also be accessed for free online: __[_Shape: Talking about Seeing and Doing_ (PDF - 1.8 MB)](http://shapetalkingaboutseeinganddoing.org/Shape.pdf).
+The full text of Professor Stiny's book can also be accessed for free online: __{{% resource_link "4ac59021-7559-4300-bd60-dd0ee2bd130a" "_Shape: Talking about Seeing and Doing_ (PDF - 1.8 MB)" %}}.
 
 Calculating: Beyond Fancy in Imagination’s Magical Realm
 --------------------------------------------------------
