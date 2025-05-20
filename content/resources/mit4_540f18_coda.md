@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/4-540-introduction-to-shape-grammars-i-fall-2018/db39e670652d3f8637c599e19dbee08a_MIT4_540F18_coda.pdf
+file: /courses/4-540-introduction-to-shape-grammars-i-fall-2018/db39e670652d3f8637c599e19dbee08a_MIT4_540F18_coda.pdf
 file_size: 608934
 file_type: application/pdf
 learning_resource_types: []

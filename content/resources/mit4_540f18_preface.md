@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: The preface to the Seven Questions and Answers
-file: /ol-ocw-studio-app/courses/4-540-introduction-to-shape-grammars-i-fall-2018/58b1f5d4005779a67d0d3098d16c6043_MIT4_540F18_preface.pdf
+file: /courses/4-540-introduction-to-shape-grammars-i-fall-2018/58b1f5d4005779a67d0d3098d16c6043_MIT4_540F18_preface.pdf
 file_size: 214760
 file_type: application/pdf
 learning_resource_types: []
