@@ -39,9 +39,10 @@
   },
   "learning_resource_types": [
     "Lecture Notes",
-    "Online Textbook"
+    "Open Textbooks"
   ],
   "site_uid": "6e55e095-9d21-4002-acd3-76035990bb3b",
   "site_short_id": "4.540-fall-2018",
+  "site_url_path": "courses/4-540-introduction-to-shape-grammars-i-fall-2018",
   "title": "Course Metadata"
 }
